@@ -64,6 +64,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06f31608-9770-4c6c-8758-b9b99cd613b0/deploy-status)](https://app.netlify.com/sites/gallant-saha-2df915/deploys)
 
 ### `npm run build` fails to minify
 

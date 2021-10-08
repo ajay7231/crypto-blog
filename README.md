@@ -16,6 +16,7 @@ Please make sure to update tests as appropriate.
 
 ## Deployed At
 The latest build is deployed [here](https://ajaxcryptoblog.netlify.app/)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1d6509e0-d8d9-4bdf-b27e-60a30d53c51c/deploy-status)](https://app.netlify.com/sites/ajaxcryptoblog/deploys)
 
 ## License
